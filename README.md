@@ -1,4 +1,5 @@
 ### EXP NO : 7 HUFFMAN CODING
+### DATE :
 ### AIM:
 To implement Huffman coding schemes using SCILAB.
 ### PROGRAM:
